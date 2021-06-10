@@ -61,7 +61,7 @@ body{
 }
 
 .origami2:hover img{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 .bodyimg{
     position: relative;
